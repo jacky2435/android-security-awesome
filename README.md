@@ -189,6 +189,7 @@ A collection of android security related resources.
 ### Misc Tools
 
 1. [smalihook](http://androidcracking.blogspot.com/2011/03/original-smalihook-java-source.html)
+2. [kahootbotflood](https://youtech.ooo/kahoot-hack-answers/)
 3. [AXMLPrinter2](http://code.google.com/p/android4me/downloads/detail?name=AXMLPrinter2.jar) - to convert binary XML files to human-readable XML files
 4. [adb autocomplete](https://github.com/mbrubeck/android-completion)
 6. [mitmproxy](https://github.com/mitmproxy/mitmproxy)
